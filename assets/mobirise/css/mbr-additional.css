@@ -1803,7 +1803,7 @@ body {
 }
 .cid-rfhJgLodug H2 {
   color: #ffffff;
-  text-align: right;
+  text-align: center;
 }
 .cid-rfn3ajzVCt {
   padding-top: 60px;
@@ -1916,8 +1916,8 @@ body {
   color: #ffffff;
 }
 .cid-rfn5KXYh8x {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
